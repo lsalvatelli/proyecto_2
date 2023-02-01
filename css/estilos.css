@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2? family= Pacifico & family= Varela+Round & family= Yanone+Kaffeesatz & display=swap');
+
+
+body{
+    display: flex;
+}
+
+
+.contenedor{
+    font-family: 'Pacifico', cursive;
+font-family: 'Varela Round', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+    border: 1px solid rgb(22, 22, 22);
+    margin: auto;
+    width: 65%;
+    background: rgba(138, 167, 197, 0.527);
+    padding: 5%;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(30, 9, 221);
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: rgb(235, 229, 145);
+    padding: auto;
+
+}
+
+
+.principal{
+background-color: rgb(187, 196, 202);
+padding: 5%;
+}
+
+.img{
+    width: 170px;
+    height: 170px;
+}
+
+.header{
+    display: flex;
+}
+
+.Nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+
+.Titulo{
+    border: 1px solid rgba(4, 138, 44, 0.884);
+    color: rgb(20, 122, 60);
+}
+
+.fa-object-ungroup{
+    font-size: 20px;
+    color: rgb(22, 97, 60);
+}
+
+.fa-user-graduate{ 
+    font-size: 20px;
+    color: rgb(22, 97, 60);
+}
+
+.fa-language{
+    font-size: 20px;
+    color: rgb(22, 97, 60);
+    
+}
+
+.fa-gears{
+    font-size: 20px;
+    color: rgb(22, 97, 60);
+    
+}
+
+.fa-asterisk{
+font-size: 20px;
+color: rgb(22, 97, 60);
+    
+}
